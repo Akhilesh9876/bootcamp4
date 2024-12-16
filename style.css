@@ -1,0 +1,33 @@
+body{
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    color: blue;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+.heading{
+    color: rgb(190,189,189);
+    font-size: 2em;
+}
+.caption{
+    font-size: 1.2em;
+}
+.container{
+    border: solid 1px #fff;
+    padding: 10px;
+}
+input[type="button"]{
+    font-size: 2em;
+    background-color: blue;
+    color: brown;
+    aspect-ratio: 200/100;
+    padding: 5px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
+.row{
+    display:flex;
+    justify-content: center;
+}
